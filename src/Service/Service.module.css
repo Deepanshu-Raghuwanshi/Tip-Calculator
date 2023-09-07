@@ -1,0 +1,12 @@
+.service{
+    margin: 50px 0px;
+  }
+  .button{
+    background-color: #0b80f4;
+    margin: 0px 10px;
+    
+  }
+  select{
+    border: 2px solid dodgerblue;
+    margin: 0px 10px; 
+  }
